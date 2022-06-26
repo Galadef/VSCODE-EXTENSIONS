@@ -1,0 +1,67 @@
+# Download file and run "cat vscode-extensions.list | xargs -L1 code --install-extension"
+
+# <<< --- --- --- VS-CODE--- --- --- --- >>>
+
+pkief.material-icon-theme
+# formulahendry.terminal
+
+# <<< --- --- --- --- --- --- --- --- --- >>>
+
+# Code Formatter
+esbenp.prettier-vscode
+
+# Automatically add HTML/XML close tag and rename tag
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+
+# Auto Import
+nucllear.vscode-extension-auto-import
+
+# LiveServer & LiveShare
+ritwickdey.liveserver
+ms-vsliveshare.vsliveshare
+
+# Improve highlighting of errors, warnings and other language diagnostics.
+usernamehw.errorlens
+
+# Show TODO, FIXME, etc. comment tags in a tree view & highlight
+gruntfuggly.todo-tree
+wayou.vscode-todo-highlight
+
+# Generate typesfrom JSON, JSON Schema, and TypeScript
+quicktype.quicktype
+
+# Real-time collaborative 
+ms-vsliveshare.vsliveshare
+
+# JavaScript and TypeScript playground 
+wallabyjs.quokka-vscode
+
+# JavaScript snippets
+xabikos.javascriptsnippets
+
+# <<< --- --- --- --- --- --- --- --- --- >>>
+
+# GIT
+eamodio.gitlens
+mhutchie.git-graph
+github.copilot
+
+# React
+dsznajder.es7-react-js-snippets
+burkeholland.simple-react-snippets
+clinyong.vscode-css-modules
+
+# NextJS
+willstakayama.vscode-nextjs-snippets
+
+# Angular
+johnpapa.angular2
+angular.ng-template
+jakethashi.vscode-angular2-emmet
+
+# Flutter
+# jeroen-meijer.pubspec-assist
+# nash.awesome-flutter-snippets
+# dart-code.dart-code
+# dart-code.flutter
